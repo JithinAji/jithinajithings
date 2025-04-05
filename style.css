@@ -1,6 +1,6 @@
 html{
 	font-family: "Red Hat Mono";
-	padding: 1rem 4rem;	
+	padding: 0.2rem 4rem;	
 }
 
 body{
@@ -18,4 +18,10 @@ h2{
 p{
 	font-size: 24px;
 	color: #686D76;
+}
+
+@media only screen and (max-width: 600px) {
+  html {
+    padding: 0;
+  }
 }
