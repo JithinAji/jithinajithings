@@ -1,0 +1,20 @@
+html{
+	font-family: "Red Hat Mono";
+	padding: 1rem 4rem;	
+}
+
+body{
+	background: #EEEEEE;
+}
+
+h1{
+	color: #373A40;
+}
+
+h2{
+	color: #DC5F00;
+}
+
+p{
+	color: #686D76;
+}
