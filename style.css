@@ -20,6 +20,12 @@ p{
 	color: #686D76;
 }
 
+a {
+	text-decoration: none;
+	font-weight: 600;
+	color: #DC5F00;
+}
+
 .share{
 	margin-top: 20px;
 	display: flex;
